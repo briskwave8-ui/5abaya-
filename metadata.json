@@ -1,0 +1,5 @@
+{
+  "name": "Amazon Data Extractor",
+  "description": "Professional-grade Amazon search and product detail extraction system using Playwright.",
+  "requestFramePermissions": []
+}
