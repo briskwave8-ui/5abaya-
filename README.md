@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/053ad818-343d-4548-9de9-8cbc1
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Marketplace Architecture Blueprint
+
+A complete WordPress/WooCommerce G2G-style marketplace architecture is available at:
+
+- `docs/wp-g2g-marketplace-architecture.md`
